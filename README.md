@@ -134,9 +134,4 @@ All assets and visuals used in this project are available in the `/public/readme
 **Stocker** is a personal full-stack project showcasing advanced event-driven architecture, secure authentication, and AI integration in modern financial web apps.
 Built with scalability, modularity, and developer experience at its core.
 
----
 
-Would you like me to include a short **“My Role & Learnings”** section (for portfolio/recruiter visibility), e.g.:
-
-> *“Developed complete frontend and backend, implemented secure auth, integrated real-time APIs, and built event-driven workflows.”*
-> That can help you present it better in interviews.
