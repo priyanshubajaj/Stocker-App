@@ -1,24 +1,8 @@
-Here’s a clean, **copy-paste-ready** version of your personalized README — formatted, rewritten, and professional for GitHub 👇
 
----
 
 # 📈 Stocker — AI-Powered Stock Market Platform
 
-<div align="center">
-  <br />
-  <img src="public/readme/hero.webp" alt="Stocker Banner" width="100%">
-  <br /><br />
 
-  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logoColor=white&logo=next.js"/>
-  <img src="https://img.shields.io/badge/-Better Auth-black?style=for-the-badge&logoColor=white&logo=betterauth"/>
-  <img src="https://img.shields.io/badge/-Shadcn-black?style=for-the-badge&logoColor=white&logo=shadcnui"/>
-  <img src="https://img.shields.io/badge/-Inngest-black?style=for-the-badge&logoColor=white&logo=inngest"/><br/>
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=00A35C"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=38B2AC"/>
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6"/>
-</div>
-
----
 
 ## ✨ Introduction
 
